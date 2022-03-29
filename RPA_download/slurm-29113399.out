@@ -1,0 +1,4 @@
+/home/haoting/.local/lib/python3.8/site-packages/libtetrabz/libtetrabz_polcmplx.py:260: RuntimeWarning: divide by zero encountered in true_divide
+  w1[ie, 0:4] = 0.25 / (de[0:4] + e0[ie])
+/home/haoting/.local/lib/python3.8/site-packages/libtetrabz/libtetrabz_polcmplx.py:260: RuntimeWarning: invalid value encountered in true_divide
+  w1[ie, 0:4] = 0.25 / (de[0:4] + e0[ie])
